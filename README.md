@@ -1,7 +1,7 @@
 # Hello, I'm Nels Findley 👋
 **Data Scientist | Full-Stack Developer | DevOps Engineer**
 
-I am a software engineer and current **MS in Data Science candidate** at Bellevue University. My expertise spans the full development lifecycle—from training Generative AI models and performing complex data analysis to orchestrating containerized deployments with Kubernetes.
+I am a software engineer and current **MS in Data Science candidate** at Bellevue University. My expertise spans the full development lifecycle and performing complex data analysis to orchestrating containerized deployments with Kubernetes.
 
 ---
 
@@ -31,7 +31,7 @@ TBD
 | :--- | :--- |
 | **Data Science / AI** | Python (Scikit-Learn, PyTorch/TF), Generative AI, R, SQL |
 | **Languages** | Ruby, Python, JavaScript (Node.js), Bash |
-| **Frameworks** | Ruby on Rails, Express.js, Flask/FastAPI |
+| **Frameworks** | Ruby on Rails, Express.js |
 | **Infrastructure** | Docker, Kubernetes, Helm, Ansible, MLOps Workflows |
 | **Operating Systems** | Linux (Redhat, NixOS), MacOS |
 | **Certifications** | CompTIA Security+ |
